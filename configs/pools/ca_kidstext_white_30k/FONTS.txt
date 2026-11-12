@@ -1,0 +1,27 @@
+# KidsCurated: 25 font folders of code/framework/fonts/KidsCurated (one file per folder is used by the generator)
+# name	files
+Abecedary	Abecedary-Expanded.ttf Abecedary-ExtraExpanded.ttf Abecedary-Regular.ttf Abecedary-SemiExpanded.ttf Abecedary-VF.ttf 
+Belle_Allure	BelleAllure V3.pdf BelleAllureCE-Gros.otf BelleAllureCM-Fin.otf BelleAllureCM-Gros.otf BelleAllureDuctus-Fin.otf BelleAllureGS-Fin.otf BelleAllureGS-Gros.otf BelleAllureScript2i-Fin.otf BelleAllureScript2i-Gros.otf BelleAllureScript3i-Fin.otf BelleAllureScript3i-Gros.otf 
+Bienchen_SAS	Bienchen Anleituing.pdf Bienchen a.ttf Bienchen b.ttf OFL-FAQ.txt Open Font License.txt 
+Calligraphy_Hand_Made	CalligraphyHandMade-Italic.ttf CalligraphyHandMade-Regular.ttf EULA Calligraphy Hand Made.pdf 
+Children_Signature	Children Signature.ttf 
+Dream_School	Dream School Rounded.otf Dream School.jpg Dream School.otf 
+DuCahier	TASSELXP.TTF licence-ducahier.txt 
+Elliora	Elliora.ttf 
+First_Time_Writing!	FirstTimeWriting!.ttf License.txt 
+Gruenewald_VA	Gruenewald VA normal.ttf Gruenewald VA.pdf OFL-FAQ.txt Open Font License.txt 
+Helvetia_Verbundene	Helvetica Verbundene.ttf OFL-FAQ.txt Open Font License.txt 
+Imrans_School	Imran Manual.pdf Imrans School a.ttf Imrans School b.ttf Imrans School2 a.ttf Imrans School2 b.ttf OFL-FAQ.txt Open Font License.txt 
+JB_Cursive	JBCursive.otf 
+JB_Cursive_3	JBCursive-V3-Bold.ttf JBCursive-V3-Medium.ttf 
+Jacob_Cursive	JacobCursive.ttf 
+KG_Midnight_Memories	KGFonts-TOU.txt KGMidnightMemories.ttf 
+KG_Perfect_Penmanship	KGFonts-TOU.txt KGPerfectPenmanship.otf KGPerfectPenmanship.ttf 
+Kid_Playon	Kid Playon.ttf 
+Kidtype	Kidtype.ttf 
+Kindergarten_Memories	Kindergarten Memories.ttf 
+Le_Jardin_Secret	Fonts for Everyone.txt Le Jardin Secret.ttf 
+Learning_Machine	LearningMachine.ttf LearningMachineItalic.ttf Read Me -- Not a Free Font.txt demo xerographer fonts learning machine-01.png 
+Leo_Hates_School	LEO Hates School MC.ttf 
+Simple_Ronde	SimpleRonde-Regular.ttf 
+Zephiroth	Zephiroth Straight.ttf Zephiroth.pdf Zephiroth.ttf readme.txt 

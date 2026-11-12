@@ -1,0 +1,76 @@
+{
+  "description": "Synthetic multilingual handwriting dataset",
+  "version": "2.1.0",
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_samples": 23374
+    },
+    "validation": {
+      "name": "validation",
+      "num_samples": 2922
+    },
+    "test": {
+      "name": "test",
+      "num_samples": 2909
+    }
+  },
+  "features": {
+    "file_name": {
+      "dtype": "string"
+    },
+    "text": {
+      "dtype": "string"
+    },
+    "char_count": {
+      "dtype": "int32"
+    },
+    "word_count": {
+      "dtype": "int32"
+    },
+    "font_name": {
+      "dtype": "string"
+    },
+    "font_category": {
+      "dtype": "string"
+    },
+    "font_style": {
+      "dtype": "string"
+    },
+    "source_book": {
+      "dtype": "string"
+    },
+    "background_type": {
+      "dtype": "string"
+    },
+    "background_color": {
+      "dtype": "string"
+    },
+    "mode": {
+      "dtype": "string"
+    },
+    "quality": {
+      "dtype": "string"
+    },
+    "perturbations": {
+      "dtype": "dict"
+    }
+  },
+  "mode": "lines",
+  "style": "normal",
+  "total_samples": 29205,
+  "num_fonts": 145,
+  "num_backgrounds": 5,
+  "background_types": [
+    "plain"
+  ],
+  "background_colors": [
+    "white"
+  ],
+  "perturbations_enabled": true,
+  "quality_distribution": {
+    "clean": 11673,
+    "degraded": 11618,
+    "severe": 5914
+  }
+}

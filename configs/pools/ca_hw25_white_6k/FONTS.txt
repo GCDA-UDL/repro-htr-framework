@@ -1,0 +1,27 @@
+# Handwritten25_ca: 25 fonts sampled with seed 42 from 147 of 196 fonts/Handwritten folders cover the Catalan required characters (fontTools check); 4 excluded: Amsterdam_Signature, Dreamy_Notes_Sans, Note_Book, TrashHand
+# name	files
+Agnia_Misel	Agnia Misel.otf, OriginFonts-EULA.pdf, Originfonts Font Usage Terms.txt
+Allura_Script	Allura_Script.ttf
+Almond_Crumble	Almond Crumble.ttf, Fonts for Everyone.txt
+Billion_Miracles	Billion Miracles Personal Use Only - Preview.png, Billion Miracles Personal Use Only.ttf, Important Information About This Font !! Please Read Me !!.pdf
+Bloody_Night	Bloody Night ttf.ttf
+Breathing	Breathing Personal Use Only - Preview.png, Breathing Personal Use Only.ttf, Important Information About This Font !! Please Read Me !!.pdf
+Bright_Dusty	Bright Dusty.otf, MJTYPE-EULA.pdf, Read Me.txt
+Casual_Signature	Casual Signature.otf, MJTYPE-EULA.pdf, Read Me.txt
+Everista	Everista - Demo - Personal Use Only.ttf, Read_Me_Before_Using_The_Font.txt
+Fall_In_Love	Fall in love.ttf, Read Me.txt
+Galette_Pears	Galette Pears.otf, MJTYPE-EULA.pdf, Read Me.txt
+Great_Monday	Great Monday.otf, OriginFonts-EULA.pdf, Originfonts Font Usage Terms.txt
+Hallo_April	Hallo April.otf, MJTYPE-EULA.pdf, Read Me.txt
+Honey_Market	Honey Market.otf, MJTYPE-EULA.pdf, Read Me.txt
+Jimmy_Script	JimmyScript-Rg.otf, Read Me.txt
+Johnston_Airline	Fonts for Everyone.txt, Johnston Airline.ttf
+Leynet_Script	Leynet Script.ttf
+Mallcity	Mallcity.otf, NOTE  !!!!.txt
+Michael_James	Michael James.otf, OriginFonts-EULA.pdf, Originfonts Font Usage Terms.txt
+Milk_Yogurt	Milk Yogurt.otf, OriginFonts-EULA.pdf, Originfonts Font Usage Terms.txt
+Rolling_Cake	OriginFonts-EULA.pdf, Originfonts Font Usage Terms.txt, Rolling Cake.otf
+Warung_Kopi	Read Me.txt, Warung Kopi Bold Italic.otf, Warung Kopi Bold.otf, Warung Kopi Light Italic.otf, Warung Kopi Light.otf, Warung Kopi Regular Italic.otf, Warung Kopi Regular.otf, Warung Kopi.otf
+Webcomic	Webcomic.otf, Webcomic.png, Webcomic.ttf, Webcomic.txt
+Yuanitta	Yuanitta Italic.otf, Yuanitta Italic.ttf, Yuanitta Italic.woff, Yuanitta Italic.woff2, Yuanitta.otf, Yuanitta.ttf, Yuanitta.woff, Yuanitta.woff2
+Zigas_Signature	Zigas Signature.ttf

@@ -1,0 +1,4 @@
+# Statistical analysis and table regeneration (versions of the experiment server's kraken7 environment)
+numpy==2.4.6
+scipy==1.15.3
+pyarrow==25.0.0

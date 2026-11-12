@@ -1,0 +1,69 @@
+{
+ "splits": {
+  "train": {
+   "lines": 4152,
+   "pages": 169,
+   "distinct": 2349,
+   "distinct_ci": 1466,
+   "chars_nfc": 56170,
+   "mean_len": 13.528420038535646,
+   "upper_pct": 46.21868978805395
+  },
+  "validation": {
+   "lines": 673,
+   "pages": 22,
+   "distinct": 533,
+   "distinct_ci": 350,
+   "chars_nfc": 8985,
+   "mean_len": 13.350668647845469,
+   "upper_pct": 43.23922734026746
+  },
+  "test": {
+   "lines": 642,
+   "pages": 24,
+   "distinct": 487,
+   "distinct_ci": 312,
+   "chars_nfc": 9586,
+   "mean_len": 14.93146417445483,
+   "upper_pct": 40.34267912772586
+  }
+ },
+ "page_overlaps": {
+  "train&validation": 0,
+  "test&train": 0,
+  "test&validation": 0
+ },
+ "writer_ids_available": false,
+ "test_chars_nfd_ketos": 9625,
+ "test_text_in_train_pct": 49.22118380062305,
+ "test_text_in_train_ci_pct": 57.47663551401869,
+ "test_words_in_train_vocab_pct": 86.77333333333333,
+ "test_text_seen_pct": {
+  "real 500": 29.28348909657321,
+  "real 500 + kidstext": 47.66355140186916,
+  "real 500 + kidstextpert": 47.81931464174455,
+  "real 500 + s1": 29.28348909657321,
+  "real 500 + s2x415": 32.242990654205606,
+  "real 500 + s2xall": 40.18691588785047,
+  "real 1k": 37.53894080996885,
+  "real 1k + kidstext": 48.28660436137071,
+  "real 1k + kidstextpert": 48.442367601246104,
+  "real 1k + s1": 37.53894080996885,
+  "real 1k + s2x415": 40.18691588785047,
+  "real 1k + s2xall": 45.17133956386293,
+  "real 2k": 43.30218068535826,
+  "real 2k + kidstext": 48.28660436137071,
+  "real 2k + kidstextpert": 48.442367601246104,
+  "real 2k + s1": 44.70404984423676,
+  "real 2k + s2x415": 44.39252336448598,
+  "real 2k + s2xall": 45.638629283489095,
+  "real full": 49.22118380062305
+ },
+ "synthetic_subsample_distinct_texts": {
+  "kidstext": 1857,
+  "kidstextpert": 1872,
+  "s1": 415,
+  "s2x415": 414,
+  "s2xall": 1552
+ }
+}

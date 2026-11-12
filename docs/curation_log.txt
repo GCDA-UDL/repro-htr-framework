@@ -1,0 +1,25 @@
+code/training/train_blockA.sh: removed lines 37-43 ('elif [ "$LANG" = "es" ]; then')
+code/training/train_blockA.sh: removed/changed '<fr|en|ca|es>'
+code/training/train_blockA.sh: removed the BASE_ES option line
+code/training/train_blockC.sh: removed lines 34-38 ('elif [ "$LANG" = "es" ]; then')
+code/training/train_blockC.sh: removed/changed '<fr|en|ca|es>'
+code/training/train_blockC.sh: removed the BASE_ES option line
+code/scripts/eval_register.py: removed/changed ',\n        "es": "data/real/vines/vines_test.arrow"}'
+code/scripts/eval_register.py: removed lines 49-50 ('"es": dict(base="FoNDUE-GD_es_v3", alt_base=None, real="vine')
+code/scripts/eval_register.py: removed lines 65-68 ('"es": {   # Vines: ids E<nn>v<k>[sS]_es')
+code/scripts/eval_register.py: removed/changed 'fr = RIMES, en = IAM, ca = CatK12HW, es = Vines diary.'
+code/scripts/eval_register.py: removed/changed '(fr|en|ca|es)_(synth-only'
+code/scripts/eval_register.py: removed/changed '(fr|en|ca|es)_(real-only|curriculum)_'
+code/scripts/eval_register.py: removed/changed 'for lang in ("fr", "en", "ca", "es"):'
+code/scripts/eval_register.py: removed/changed 'for ca / es runs.'
+code/scripts/eval_register.py: removed/changed '(fr/en/ca *_white_30k, es_beige_30k)'
+build_art2_pools.sh: removed the es_* pool lines
+build_pool.sh: removed the es usage lines
+code/training/jobs_c2_initial.txt: removed 9 es job lines
+code/training/jobs_art2.txt: removed 18 es job lines
+checksums/POOLS_SHA256.txt: 16 diary lines left out
+checksums/FONTS_SHA256.txt: 0 diary lines left out
+code/training/train_blockA_phase2only.sh: removed the es branch
+code/training/jobs_art2.txt: removed the es comments
+checksums/FONTS_SHA256.txt: 34 HistoricCurated font lines left out
+code/scripts/register_result.py, check_font_glyphs.py: HistoricCurated category removed

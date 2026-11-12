@@ -1,0 +1,33 @@
+# School_ca: 31 font folders of code/framework/fonts_sel/School_ca (one file per folder is used by the generator)
+# name	files
+Abecedary	Abecedary-Expanded.ttf Abecedary-ExtraExpanded.ttf Abecedary-Regular.ttf Abecedary-SemiExpanded.ttf Abecedary-VF.ttf 
+Belle_Allure	BelleAllureCE-Gros.otf BelleAllureCM-Fin.otf BelleAllureCM-Gros.otf BelleAllureDuctus-Fin.otf BelleAllureGS-Fin.otf BelleAllureGS-Gros.otf BelleAllureScript2i-Fin.otf BelleAllureScript2i-Gros.otf BelleAllureScript3i-Fin.otf BelleAllureScript3i-Gros.otf 
+Bienchen_SAS	Bienchen a.ttf Bienchen b.ttf 
+Calligraphy_Hand_Made	CalligraphyHandMade-Italic.ttf CalligraphyHandMade-Regular.ttf 
+Children_Signature	Children Signature.ttf 
+Cole_Carreira	ColeCarreira.ttf 
+Crayon,_Plume,_Seyes	CrayonE.ttf CrayonL.ttf PlumBAE.ttf PlumBAL.ttf PlumBDE.ttf PlumBDL.ttf PlumNAE.ttf PlumNAL.ttf PlumNDE.ttf PlumNDL.ttf SeyesBDE.ttf SeyesBDL.ttf SeyesNDE.ttf SeyesNDL.ttf 
+Dream_School	Dream School Rounded.otf Dream School.otf 
+DuCahier	TASSELXP.TTF 
+Elliora	Elliora.ttf 
+First_Time_Writing!	FirstTimeWriting!.ttf 
+Gruenewald_VA	Gruenewald VA normal.ttf 
+Helvetia_Verbundene	Helvetica Verbundene.ttf 
+Imrans_School	Imrans School a.ttf Imrans School b.ttf Imrans School2 a.ttf Imrans School2 b.ttf 
+JB_Cursive	JBCursive.otf 
+JB_Cursive_3	JBCursive-V3-Bold.ttf JBCursive-V3-Medium.ttf 
+Jacob_Cursive	JacobCursive.ttf 
+KG_Midnight_Memories	KGMidnightMemories.ttf 
+KG_Perfect_Penmanship	KGPerfectPenmanship.otf KGPerfectPenmanship.ttf 
+KG_Teacher_Created	KGTeacherCreated.otf KGTeacherCreated.ttf KGTeacherCreatedArrows.otf KGTeacherCreatedArrows.ttf KGTeacherCreatedArrowsLined.otf KGTeacherCreatedArrowsLined.ttf KGTeacherCreatedBoxed.otf KGTeacherCreatedBoxed.ttf KGTeacherCreatedBoxes.otf KGTeacherCreatedBoxes.ttf KGTeacherCreatedBubbleDot.otf KGTeacherCreatedBubbleDot.ttf KGTeacherCreatedChunky.otf KGTeacherCreatedChunky.ttf KGTeacherCreatedDashLined.otf KGTeacherCreatedDashLined.ttf KGTeacherCreatedDashed.otf KGTeacherCreatedDashed.ttf KGTeacherCreatedDot4Lined.otf KGTeacherCreatedDot4Lined.ttf KGTeacherCreatedDotLined.otf KGTeacherCreatedDotLined.ttf KGTeacherCreatedDotted.otf KGTeacherCreatedDotted.ttf KGTeacherCreatedLined.otf KGTeacherCreatedLined.ttf KGTeacherCreatedLines.otf KGTeacherCreatedLines.ttf KGTeacherCreatedOutline.otf KGTeacherCreatedOutline.ttf KGTeacherCreatedOutline2.otf KGTeacherCreatedOutline2.ttf KGTeacherCreatedOutline3.otf KGTeacherCreatedOutline3.ttf KGTeacherCreatedOutlineDot.otf KGTeacherCreatedOutlineDot.ttf KGTeacherCreatedOutlined.otf KGTeacherCreatedOutlined.ttf KGTeacherCreatedPolkadot.otf KGTeacherCreatedPolkadot.ttf KGTeacherCreatedStarArrows.otf KGTeacherCreatedStarArrows.ttf KGTeacherCreatedStarDotted.otf KGTeacherCreatedStarDotted.ttf KGTeacherCreatedStarLined.otf KGTeacherCreatedStarLined.ttf KGTeacherCreatedStarLined2.otf KGTeacherCreatedStarLined2.ttf KGTeacherCreatedThin.otf KGTeacherCreatedThin.ttf KGTeacherCreatedThin2Lined.otf KGTeacherCreatedThin2Lined.ttf KGTeacherCreatedThinLined.otf KGTeacherCreatedThinLined.ttf KGTeacherCreatedThinner.otf KGTeacherCreatedThinner.ttf 
+Kid_Playon	Kid Playon.ttf 
+Kidtype	Kidtype.ttf 
+Kindergarten_Memories	Kindergarten Memories.ttf 
+Le_Jardin_Secret	Le Jardin Secret.ttf 
+Learning_Machine	LearningMachine.ttf LearningMachineItalic.ttf 
+Leo_Hates_School	LEO Hates School MC.ttf 
+Morasoft	Morasoft10.ttf Morasoft7.ttf Morasoft8.ttf Morasoft9.ttf 
+Penmanship_Ledger	Penmanship Ledger.ttf 
+School_Script_Dashed	SchoolScriptDashed.ttf 
+Simple_Ronde	SimpleRonde-Regular.ttf 
+Zephiroth	Zephiroth Straight.ttf Zephiroth.ttf 

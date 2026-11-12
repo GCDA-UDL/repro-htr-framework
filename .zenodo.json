@@ -1,0 +1,43 @@
+{
+  "title": "Synthetic Handwriting for HTR Fine-Tuning: Controlled Evaluation Across Languages, Domains and Data Sizes (reproduction package)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Oliva, Joaquim",
+      "affiliation": "SEMBAC, Universitat de Lleida",
+      "orcid": "0009-0006-2645-6008"
+    },
+    {
+      "name": "Grao, Daniel",
+      "affiliation": "SEMBAC, Universitat de Lleida"
+    },
+    {
+      "name": "Tomàs, Rosana",
+      "affiliation": "SEMBAC, Universitat de Lleida",
+      "orcid": "0000-0002-1995-3974"
+    },
+    {
+      "name": "Carrera, Xavier",
+      "affiliation": "Department of Education Sciences, Faculty of Education, Psychology and Social Work, Universitat de Lleida"
+    },
+    {
+      "name": "da Silva, Vitor L.",
+      "affiliation": "SEMBAC, Universitat de Lleida",
+      "orcid": "0000-0002-3296-2752"
+    }
+  ],
+  "description": "<p>Reproduction package for the article <em>Synthetic Handwriting for HTR Fine-Tuning: Controlled Evaluation Across Languages, Domains and Data Sizes</em>. It contains the captured results of every experiment (Kraken and TrOCR on RIMES, IAM and CatK12HW-actions), the captured output of the per-line analysis on CatK12HW-actions (the per-line scores themselves are available on request from the restricted record of the corpus), the statistical analysis (Welch intervals, Holm correction over a single family of 82 contrasts, hierarchical bootstrap over test pages and seeds), scripts that regenerate every table and figure of the article and check them against its sources, the training and evaluation scripts, the configurations and checksums of the synthetic pools, and a Docker environment with the versions of the experiment server. The synthetic-line generator is pinned by version and not copied. CatK12HW-actions images, transcriptions and predictions, checkpoints and font files are not included.</p><p>This work has been granted by the Ministerio de Ciencia, Innovación y Universidades (MICIU) AEI/10.13039/501100011033 under contract PID2023-146193OB-I00.</p>",
+  "keywords": [
+    "handwritten text recognition",
+    "synthetic data",
+    "fine-tuning",
+    "reproduction package",
+    "Catalan",
+    "children's handwriting",
+    "Kraken",
+    "TrOCR"
+  ],
+  "language": "eng"
+}

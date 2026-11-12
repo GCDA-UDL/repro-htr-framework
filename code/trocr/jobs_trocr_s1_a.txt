@@ -1,0 +1,15 @@
+trocrs1_ca_ro_500_s1 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only 500 1
+trocrs1_ca_ro_500_s2 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only 500 2
+trocrs1_ca_ro_500_s3 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only 500 3
+trocrs1_ca_ro_500_s4 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only 500 4
+trocrs1_ca_ro_500_s5 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only 500 5
+trocrs1_ca_ro_500_s6 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only 500 6
+trocrs1_ca_cur_full_s1 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ curriculum full 1
+trocrs1_ca_cur_500_s1 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ curriculum 500 1
+trocrs1_ca_cur_full_s2 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ curriculum full 2
+trocrs1_ca_cur_500_s2 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ curriculum 500 2
+trocrs1_ca_cur_full_s3 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ curriculum full 3
+trocrs1_ca_cur_500_s3 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ curriculum 500 3
+trocrs1_ca_ro_full_s1 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only full 1
+trocrs1_ca_ro_full_s2 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only full 2
+trocrs1_ca_ro_full_s3 ::: TROCR_RECIPE=r2 TROCR_BASE=microsoft/trocr-base-stage1 TROCR_ROOT=models/trocr_s1 TROCR_KEEP=0 bash code/trocr/train_trocr.sh __GPU__ real-only full 3

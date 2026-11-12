@@ -1,0 +1,12 @@
+scr_ca_cur_full_s1 ::: - ::: bash code/training/train_scratch.sh __GPU__ curriculum full 1
+scr_ca_cur_full_s2 ::: - ::: bash code/training/train_scratch.sh __GPU__ curriculum full 2
+scr_ca_cur_full_s3 ::: - ::: bash code/training/train_scratch.sh __GPU__ curriculum full 3
+scr_ca_ro_full_s1 ::: - ::: bash code/training/train_scratch.sh __GPU__ real-only full 1
+scr_ca_ro_full_s2 ::: - ::: bash code/training/train_scratch.sh __GPU__ real-only full 2
+scr_ca_ro_full_s3 ::: - ::: bash code/training/train_scratch.sh __GPU__ real-only full 3
+scr_ca_ro_500_s1 ::: - ::: bash code/training/train_scratch.sh __GPU__ real-only 500 1
+scr_ca_ro_500_s2 ::: - ::: bash code/training/train_scratch.sh __GPU__ real-only 500 2
+scr_ca_ro_500_s3 ::: - ::: bash code/training/train_scratch.sh __GPU__ real-only 500 3
+scr_ca_cur_500_s1 ::: models/blockA/ca_curriculum_scratch-kidstext_seed1/phase1/DONE ::: bash code/training/train_scratch.sh __GPU__ curriculum 500 1
+scr_ca_cur_500_s2 ::: models/blockA/ca_curriculum_scratch-kidstext_seed2/phase1/DONE ::: bash code/training/train_scratch.sh __GPU__ curriculum 500 2
+scr_ca_cur_500_s3 ::: models/blockA/ca_curriculum_scratch-kidstext_seed3/phase1/DONE ::: bash code/training/train_scratch.sh __GPU__ curriculum 500 3

@@ -1,0 +1,198 @@
+# Handwritten: 196 font folders of code/framework/fonts/Handwritten (one file per folder is used by the generator)
+# name	files
+212_Baby_Girl	212 Baby Girl.otf 
+212_Orion_Sans	212 Orion Sans PERSONAL USE.ttf 
+A_Glitch_In_Time	A Glitch In Time.otf A Glitch In Time.ttf READ ME.txt 
+A_little_sunshine	A little sunshine.ttf READ ME!!.txt sun.png 
+Abigael_Tale	#MS_Agreement - Please Read Me !! Important !!.pdf Abigael Tale.otf 
+Abstract_Spectrum	Abstract Spectrum.ttf Fonts for Everyone.txt 
+Abuget	Abuget.ttf 
+Agnia_Misel	Agnia Misel.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Allura_Script	Allura_Script.ttf 
+Almond_Crumble	Almond Crumble.ttf Fonts for Everyone.txt 
+Almond_Milky	Almond Milky.otf MJTYPE-EULA.pdf Read Me.txt 
+Alpha_Brights	Alpha Brights.otf Alpha Brights.ttf Alpha Brights.woff 
+Always_Give	AlwaysGiveRegular.ttf ReadMe.txt 
+Amilly_Signature	Amilly Signature.otf Preview.png READ_BEFORE_ANY_USE.txt 
+Amsterdam	Amsterdam.ttf PLEAS READ FIRST_VITAL_INFORMATION.txt 
+Amsterdam_Signature	Amsterdam Signature Duo Italic.otf Amsterdam Signature Duo Italic.ttf Amsterdam Signature Duo Italic.woff Amsterdam Signature Duo Italic.woff2 Amsterdam Signature Duo.otf Amsterdam Signature Duo.ttf Amsterdam Signature Duo.woff Amsterdam Signature Duo.woff2 Amsterdam Signature Italic.otf Amsterdam Signature Italic.ttf Amsterdam Signature Italic.woff Amsterdam Signature Italic.woff2 Amsterdam Signature.otf Amsterdam Signature.ttf Amsterdam Signature.woff Amsterdam Signature.woff2 More Info.txt 
+Angelface	Angelface.otf 
+Angelina	Angelina Personal Use - Preview.jpg Angelina Personal Use Only.ttf Important Information About This Font !! Please Read Me !!.pdf 
+Angelina_Malika	Angelina Malika - Demo - Personal Use Only.ttf Read_Me_Before_Using_The_Font.txt 
+Another_Shabby	Anothershabby_trial.ttf another shabby EULA.pdf 
+Antro_Vectra	Antro_Vectra.otf Antro_Vectra_Bolder.otf READ ME.txt 
+Architect's_Daughter	ArchitectsDaughter.ttf KGFonts-TOU.txt 
+Au_Bord_de_la_Seine	Au Bord de la Seine.ttf Fonts for Everyone.txt 
+Authentic_Signature	Authentic Signature.otf 
+Autography	Autography.otf HPF_Agreement.pdf 
+B_de_bonita	B-de-bonita.ttf b-de-bonita-shadow.ttf 
+Babes_&_Bridal	Babes & Bridal - TTF.ttf 
+Baby_Aletha	Baby Aletha.otf 
+Backline	Backline.otf Read Me !!!.txt 
+Balado_Stick	Balado Stick.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Banana_Super	Banana Super.otf Banana Super.ttf Banana Super.woff Banana Super.woff2 
+Barett_Street	Barett Street.ttf 
+Bellarina	Agreement.txt Bellarina.otf Bellarina_dafont.png 
+Better_Chill	BetterChill.otf ReadMe.txt 
+Bettermilk	Bettermilk.otf Bettermilk.png Read Me.txt 
+Billie_James	BillieJames-Regular.otf BillieJames-Regular.ttf BillieJames-Regular.woff BillieJames-Regular.woff2 
+Billion_Miracles	Billion Miracles Personal Use Only - Preview.png Billion Miracles Personal Use Only.ttf Important Information About This Font !! Please Read Me !!.pdf 
+Bloody_Night	Bloody Night ttf.ttf 
+Bloom_Velvet	Bloom Velvet.otf MJTYPE-EULA.pdf Read Me.txt 
+Bobogo	Bobogo.otf MJTYPE-EULA.pdf Read Me.txt 
+Breathing	Breathing Personal Use Only - Preview.png Breathing Personal Use Only.ttf Important Information About This Font !! Please Read Me !!.pdf 
+Breathney	Breathney Demo.ttf 
+Bridgetta	Bridgetta.otf 
+Bright_Dusty	Bright Dusty.otf MJTYPE-EULA.pdf Read Me.txt 
+Brinton_Signature	Brinton Signature.ttf 
+Bristol	Bristol.otf Bristol.pdf FREE FONT LICENSE.txt New-free-fonts.pdf 
+Brittany_Signature	Brittany Signature Demo.otf Readme.txt 
+Brown_Cheese	MJTYPE-EULA.pdf Read Me.txt brown cheese.otf 
+Bulgary_Rose	BulgaryRose-Regular.otf LICENSE INFORMATION.pdf 
+Burger_Crunchy	Burger Crunchy.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Casual_Signature	Casual Signature.otf MJTYPE-EULA.pdf Read Me.txt 
+Catalona	1.png Catalona.ttf 
+Cerita_Cinta	Cerita Cinta.ttf 
+Chalk_Walk	Chalk Walk.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Chettalbury	Chettalbury Italic.otf Chettalbury Italic.ttf Chettalbury Italic.woff Chettalbury Italic.woff2 Chettalbury.otf Chettalbury.ttf Chettalbury.woff Chettalbury.woff2 
+Chicken_Breast	Chicken Breast.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Clavasta	Clavasta.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Comptoir_de_la_Gastronomie	Comptoir de la Gastronomie.ttf Fonts for Everyone.txt 
+Content_Cartoon	Content Cartoon.otf 
+Contour_Line	Contour Line.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Crazy_Work	Crazy Work.otf MJTYPE-EULA.pdf Read Me.txt 
+Cute_Cat	Cute Cat.otf MJTYPE-EULA.pdf Read Me.txt 
+DK_Cool_Crayon	DK Cool Crayon.ttf Hanoded Fonts License & FAQ - DO READ.pdf 
+DK_Crayon_Crumble	DK Crayon Crumble.ttf Hanoded Fonts License & FAQ - DO READ.pdf 
+DK_Lemon_Yellow_Sun	DK Lemon Yellow Sun.otf Hanoded Fonts License & FAQ - DO READ.pdf 
+Daniel	daniel.ttf danielbd.ttf danielbk.ttf 
+Darline	Darline.otf License - READ THIS.txt Please Read Me!.pdf 
+Dear_Script	Dear Script (Demo_Font).otf READ THIS.txt 
+Dellamor	Dellamor.otf ReadMe.txt 
+District_Street	District Street.ttf Fonts for Everyone.txt 
+Dreamy_Notes_Sans	Dreamy Notes Sans.otf Dreamy Notes Script.otf Read Me !!!.txt 
+Dudu_Calligraphy	Dudu_Calligraphy.ttf 
+Dulcelin	Dulcelin.otf READ ME.txt 
+Elegant_City	Elegant City.otf MJTYPE-EULA.pdf Read Me.txt 
+Everista	Everista - Demo - Personal Use Only.ttf Read_Me_Before_Using_The_Font.txt 
+Extra_Milky	Extra Milky.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+F_ck_Beans	F-ck-Beans-Sample.jpg F_ck Beans Bold Italic.ttf F_ck Beans Bold.ttf F_ck Beans Italic.ttf F_ck Beans Licence.txt F_ck Beans.ttf Using Extra Ligatures.pdf 
+Faded_Glory_Script	Faded Glory Display.ttf Faded Glory Script.ttf 
+Fall_In_Love	Fall in love.ttf Read Me.txt 
+Fried_Salmon	Fried Salmon.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Gabriel_Weiss'_Friends	GABRWFFR.TTF Readme.txt 
+Galette_Pears	Galette Pears.otf MJTYPE-EULA.pdf Read Me.txt 
+Good_Days	Good Days.otf MJTYPE-EULA.pdf Read Me.txt 
+Great_Monday	Great Monday.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Green_Sage	Green Sage.otf MJTYPE-EULA.pdf Read Me.txt 
+Hallo_April	Hallo April.otf MJTYPE-EULA.pdf Read Me.txt 
+Hertine	Hertine.otf Hertine.ttf Hertine.woff 
+High_Spirited	High Spirited.ttf LICENSE REQUEST.txt 
+Hislife	Hislife.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Holicakes_Serfinah	Holicakes Serfinah.otf 
+Honey_Market	Honey Market.otf MJTYPE-EULA.pdf Read Me.txt 
+Honey_Script	HoneyScript-Light.ttf HoneyScript-SemiBold.ttf 
+Human_Intention	Human Intention.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Hunter_Script	Hunter Script.otf MJTYPE-EULA.pdf Read Me.txt 
+Huntley_Signature	Huntley Signature.otf ReadMe.txt 
+Iced_Cholate	Iced Cholate.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Indie_Flower	IndieFlower.ttf KGFonts-TOU.txt 
+January_Night	Checkout my font store!.url January Night Terms Of Use.url January Night.ttf 
+Jimmy_Script	JimmyScript-Rg.otf Read Me.txt 
+Johnston_Airline	Fonts for Everyone.txt Johnston Airline.ttf 
+KG_Miss_Kindergarten	KG-TOU2013.txt KGMissKindergarten.ttf 
+KG_Simply_the_Best	KGFonts-TOU.txt KGSimplytheBest.otf KGSimplytheBest.ttf 
+KG_Teacher_Jordan	KGFonts-TOU.txt KGTeacherJordan.otf KGTeacherJordan.ttf 
+La_Belle_Aurore	KGFonts-TOU.txt La Belle Aurore.ttf 
+La_Seduction_de_la_Nuit	Fonts for Everyone.txt La Seduction de la Nuit.ttf 
+Lemon_Tuesday	FREE FONT LICENSE.txt Lemon Tuesday freefont.pdf Lemon Tuesday.otf 
+Leynet_Script	Leynet Script.ttf 
+Light_Script	Light Script.otf Read Me.txt 
+Lighthouse_Treasure	Lighthouse Treasure - Demo - Personal Use Only.ttf Read_Me_Before_Using_The_Font.txt 
+Lova_Romantic	Lova Romantic.ttf 
+Love_Cookies	Love Cookies Font by Keithzo.otf 
+Loverine	Loverine.otf 
+Magnolia_Signature	Magnolia Signature.otf 
+Make_Choco	Make Choco.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Mallcity	Mallcity.otf NOTE  !!!!.txt 
+Manchester_Signature	Manchester Signature ttf.ttf 
+Mango_Salsa	Img Mango Salsa - Personal Use.ttf Read Me Please!!.pdf 
+Marline_Staylish	MJTYPE-EULA.pdf Marline Staylish.otf Read Me.txt 
+Marllena	Marllena.ttf 
+Matcha_Salt	MJTYPE-EULA.pdf Matcha Salt.otf Read Me.txt 
+Mayonice	Mayonice.jpg Mayonice.otf Mayonice.ttf More Info.txt Read Me.pdf 
+Medical_Signature	Medical Signature.ttf 
+Melove	Melove.ttf 
+Michael_James	Michael James.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Milk_Choco	Milk Choco.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Milk_Yogurt	Milk Yogurt.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Milove	EfStudio_Price List.pdf Please Read Me!.pdf milove.otf milove.png 
+Mister_Crown	MJTYPE-EULA.pdf Mister Crown.otf Read Me.txt 
+Modernline	License Request.txt Please Read Me!.pdf modernline bold.otf modernline.otf 
+Moonlight_Dreaming	Moonlight Dreaming Free.ttf READ ME PLEASE__!!__PERSONAL-USE-ONLY-LICENSE.txt 
+Motterdam	HPF_Agreement.pdf Motterdam.otf Motterdam.ttf 
+Mozzarella_Cheese	Mozzarella Cheese.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Naishila_Dancing_Script	Naishila Dancing Script.ttf 
+Nice_Gourmet_Script	Nice Gourmet Script Trial.otf Read Me.txt 
+Nostalgic_Letter	Nostalgic Letter.otf OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt 
+Note_Book	NOTE BOOK.otf 
+Note_to_Selfie	Note To Selfie License.txt Note to Selfie Bold.ttf Note to Selfie Heavy.ttf Note to Selfie Sample.pdf Note to Selfie.ttf 
+October_Shine	OctoberShine.otf ReadMe.txt 
+Papaya_Fruit	MJTYPE-EULA.pdf Papaya Fruit.otf Read Me.txt 
+Pecita	Pecita.otf Pecita.txt 
+Photograph_Signature	Photograph Signature.ttf 
+Photorichies	Photorichies.ttf 
+Photoshoot	Photoshoot-Regular.ttf 
+Please_write_me_a_song	Please write me a song.ttf READ ME!!.txt songshow.png 
+Pretty_Satisfy_Script	PrettySatisfy-Script.ttf PrettySatisfy-Serif.ttf 
+Project_Note	OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt Project Note.otf 
+Quentin	Quentin.otf 
+Quick_Signature	Agreement.txt Quick Signature Personal Use.otf 
+Random_Wednesday	Checkout my font store!.url Random Wednesday Terms Of Use.url Random Wednesday.ttf 
+Raustila	Click here for visite our website alitdesign.url ReadMe.rtf Visit Here for More Portfolio on creativemarket.url raustila-Regular.otf raustila-Regular.ttf raustila.png 
+Retro_Signature	!!! READ THIS FIRST !!!.txt Preview Retro Signature RetroSignature.otf 
+Revision_Signature	MJTYPE-EULA.pdf Read Me.txt RevisionSignature.ttf 
+Robusta_Cream	OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt Robusta Cream.otf 
+Rolling_Cake	OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt Rolling Cake.otf 
+Romantic_Sunrise	MJTYPE-EULA.pdf Read Me.txt Romantic Sunrise.otf 
+Roustel	Roustel.ttf 
+Royal_Brand	Read me please!.pdf RoyalBrand-Regular.otf 
+Royal_Wedding	!!! Read Me!!!.pdf Royal Wedding - Dafont.png Royal Wedding - Preview RoyalWedding-Regular.otf RoyalWedding-Regular.ttf 
+Rumble_Notes	MJTYPE-EULA.pdf Read Me.txt Rumble Notes.otf 
+Salad_Mixed	OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt Salad Mixed.otf 
+Sallim	RULES OF USE.txt Sallim.otf Sallim.ttf 
+Santa_Catalina	Santa Catalina1.otf 
+Shadows_Into_Light	KGFonts-TOU.txt ShadowsIntoLight.ttf 
+Shelter_Coffee	OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt Shelter Coffee.otf 
+Sidesakey	Sidesakey.ttf 
+Signatie	Signatie.otf Signatie.ttf Signatie.woff Signatie.woff2 
+Signatura_Monoline_Script	Read Me.txt Signatura Monoline.otf Signatura Monoline.ttf 
+Signature	Signature.otf 
+Silent_People	OriginFonts-EULA.pdf Originfonts Font Usage Terms.txt Silent People.otf 
+Simple_Handmade	SimpleHandmade.otf SimpleHandmade.ttf SimpleHandmade.txt 
+Simplicity	READ ME!!.txt show.png simplicity.ttf 
+Standing_Handwriting	MJTYPE-EULA.pdf Read Me.txt Standing Handwriting.otf 
+Starlight_Romance	Fonts for Everyone.txt Starlight Romance.ttf 
+Steak_Break	MJTYPE-EULA.pdf Read Me.txt Steak Break.otf 
+Still_Alone	MJTYPE-EULA.pdf Read Me.txt Still Alone.otf 
+Stockhome	Read Me.txt Stockhome.otf 
+Strange_Neighbor	MJTYPE-EULA.pdf Read Me.txt Strange Neighbor.otf 
+Study_Daily	MJTYPE-EULA.pdf Read Me.txt Study Daily.otf 
+Study_Night	MJTYPE-EULA.pdf Read Me.txt Study Night.otf 
+Study_Person	MJTYPE-EULA.pdf Read Me.txt Study Person.otf 
+Summer_Crush	MJTYPE-EULA.pdf Read Me.txt Summer Crush.otf 
+Summer_Short	Summer Short.otf 
+Sunday_Drift	MJTYPE-EULA.pdf Read Me.txt Sunday Drift.otf 
+Sunny_Script	MJTYPE-EULA.pdf Read Me.txt Sunny Script.otf 
+Tahu!	Tahu!.ttf 
+The_Greats	MJTYPE-EULA.pdf Read Me.txt The Greats.otf 
+The_Wedding_Signature	!!! Read Me!!!.pdf The Wedding Signature - preview TheWeddingSignature-Regular.ttf TheWeddingSignature-Regular.woff TheWeddingSignature-Regular.woff2 
+TrashHand	TrashHand.TTF 
+Twenty_Night	Twenty Night.ttf 
+Warung_Kopi	Read Me.txt Warung Kopi Bold Italic.otf Warung Kopi Bold.otf Warung Kopi Light Italic.otf Warung Kopi Light.otf Warung Kopi Regular Italic.otf Warung Kopi Regular.otf Warung Kopi.otf 
+Webcomic	Webcomic.otf Webcomic.png Webcomic.ttf Webcomic.txt 
+Welcome_Darling	MJTYPE-EULA.pdf Read Me.txt Welcome Darling.otf 
+Wildy_Sans	Read Me!.pdf Wildy Sans.otf Wildy-Sans.ttf 
+Young_Kids	MJTYPE-EULA.pdf Read Me.txt Young Kids.otf 
+Yuanitta	Yuanitta Italic.otf Yuanitta Italic.ttf Yuanitta Italic.woff Yuanitta Italic.woff2 Yuanitta.otf Yuanitta.ttf Yuanitta.woff Yuanitta.woff2 
+Zigas_Signature	Zigas Signature.ttf 

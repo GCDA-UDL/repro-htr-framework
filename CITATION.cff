@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this reproduction package, please cite it using the concept DOI of its Zenodo record."
+type: software
+title: "Synthetic Handwriting for HTR Fine-Tuning: Controlled Evaluation Across Languages, Domains and Data Sizes (reproduction package)"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/GCDA-UDL/repro-htr-framework"
+# doi: concept DOI, to be added after the first Zenodo release
+authors:
+  - family-names: Oliva
+    given-names: Joaquim
+    orcid: "https://orcid.org/0009-0006-2645-6008"
+    affiliation: "SEMBAC, Universitat de Lleida"
+  - family-names: Grao
+    given-names: Daniel
+    affiliation: "SEMBAC, Universitat de Lleida"
+  - family-names: Tomàs
+    given-names: Rosana
+    orcid: "https://orcid.org/0000-0002-1995-3974"
+    affiliation: "SEMBAC, Universitat de Lleida"
+  - family-names: Carrera
+    given-names: Xavier
+    affiliation: "Department of Education Sciences, Faculty of Education, Psychology and Social Work, Universitat de Lleida"
+  - family-names: "da Silva"
+    given-names: "Vitor L."
+    orcid: "https://orcid.org/0000-0002-3296-2752"
+    affiliation: "SEMBAC, Universitat de Lleida"
+keywords:
+  - handwritten text recognition
+  - synthetic data
+  - fine-tuning
+  - reproduction package
+  - Catalan
+  - Kraken
+  - TrOCR
