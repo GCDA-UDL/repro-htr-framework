@@ -75,7 +75,7 @@ base models and the generator:
 - TrOCR (`microsoft/trocr-base-handwritten` and `microsoft/trocr-base-stage1`); `trocr` target.
 - Synthetic pools: the generator is not copied here. It is pinned by version: *multilingual-synthetic-htr-dataset-generator*
   1.0.0 (code identical to commit `12f0918`, which adds the `--text-lines` mode used for the domain-text pools; repository
-  github.com/GCDA-UDL/synthetic-htr-generator, copied from github.com/joaquimoliva/multilingual-synthetic-htr-dataset-generator). Generation
+  github.com/GCDA-UDL/software-synthetic-htr-generator, copied from github.com/joaquimoliva/multilingual-synthetic-htr-dataset-generator). Generation
   is not deterministic, so `configs/pools/*/GENERATION.md` and `checksums/POOLS_SHA256.txt` describe the exact pools.
 
 ## What is not included, and why
