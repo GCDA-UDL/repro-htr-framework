@@ -1,0 +1,61 @@
+{
+ "train": {
+  "lines": 6482,
+  "chars_total": 281245,
+  "chars_nfd": 281245,
+  "charset_size": 79,
+  "texts_with_newline": 0,
+  "texts_with_edge_whitespace": 0,
+  "texts_empty": 0,
+  "orig_modes": {
+   "L": 6482
+  },
+  "heights": {
+   "128": 6482
+  },
+  "width_min": 184,
+  "width_max": 5027,
+  "width_mean": 1873.3
+ },
+ "validation": {
+  "lines": 976,
+  "chars_total": 42074,
+  "chars_nfd": 42074,
+  "charset_size": 76,
+  "texts_with_newline": 0,
+  "texts_with_edge_whitespace": 0,
+  "texts_empty": 0,
+  "orig_modes": {
+   "L": 976
+  },
+  "heights": {
+   "128": 976
+  },
+  "width_min": 181,
+  "width_max": 4126,
+  "width_mean": 1956.9
+ },
+ "test": {
+  "lines": 2915,
+  "chars_total": 125615,
+  "chars_nfd": 125615,
+  "charset_size": 75,
+  "texts_with_newline": 0,
+  "texts_with_edge_whitespace": 0,
+  "texts_empty": 0,
+  "orig_modes": {
+   "L": 2915
+  },
+  "heights": {
+   "128": 2915
+  },
+  "width_min": 187,
+  "width_max": 4369,
+  "width_mean": 1780.0
+ },
+ "source": {
+  "dataset": "Teklia/IAM-line",
+  "revision": "fbdad97500ce54635c0d1ba306bf535cb40656cf",
+  "split": "Aachen (train / validation / test)"
+ }
+}

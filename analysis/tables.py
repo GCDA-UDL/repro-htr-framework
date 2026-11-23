@@ -165,7 +165,7 @@ table("tab:catk12hw", "results/corpus/catk12hw.json (tools/export_derived.py)", 
 # ------------------------------------------------------------------ Table II (settings)
 table("tab:settings", "results/kraken/all_results.csv (real_train_size) and ketos_test_summaries.csv (Characters)", [
     [SKIP, SKIP, SKIP, SKIP, f"{int(g(C2, '03', '', l)[0]['real_train_size']):,}", f"{int(KS[run]['characters']):,}"]
-    for l, run in (("fr", "models/blockA/fr_real-only/eval_full.log"), ("en", "models/blockA/en_real-only/eval_full.log"),
+    for l, run in (("fr", "models/blockA/fr_real-only/eval_full.log"), ("en", "models/iam_aachen/en_real-only_full_seed1/eval_full.log"),
                    ("ca", "models/blockA/ca_real-only_seed1/eval_full.log"))])
 
 # ------------------------------------------------------------------ Table III (six protocols, full real set, c2)
@@ -400,7 +400,7 @@ table("tab:s-scratch", "all_results.csv (c2), v10 (second from-scratch recipe), 
 # ------------------------------------------------------------------ Fig. S2 (error composition)
 pts = []
 for l, ro, so in (("FR", "models/blockA/fr_real-only/eval_full.log", "models/mixedbg/blockA/fr_synth-only/eval_full.log"),
-                  ("EN", "models/blockA/en_real-only/eval_full.log", "models/mixedbg/blockA/en_synth-only/eval_full.log"),
+                  ("EN", "models/iam_aachen/en_real-only_full_seed1/eval_full.log", "models/iam_aachen/c1_en_synth-only_seed1/eval_full.log"),
                   ("CA", "models/blockA/ca_real-only_seed1/eval_full.log", "models/mixedbg/blockA/ca_synth-only_seed1/eval_full.log")):
     for prot, run in (("real-only", ro), ("synth.-only", so)):
         k = KS[run]; E = int(k["errors"])

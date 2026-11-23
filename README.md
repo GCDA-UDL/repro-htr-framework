@@ -28,6 +28,7 @@ sources and writes `out/check_manuscript.md` (exit status 1 if a table or figure
 |---|---|
 | `results/kraken/` | Every Kraken run of the article: `all_results.csv` (campaign c2, synthetic background matched to the real paper), `all_results_mixedbg.csv` (campaign c1, heterogeneous background), `results_round2.csv` and `results_round3.csv` (S1/S2 controls); `ketos_test_summaries.csv` (character, error, insertion, deletion and substitution counts of each `ketos test` report) and `phase1_checkpoints.csv` (checkpoint that starts each second curriculum phase) |
 | `results/trocr/` | `test_results.csv`: aggregate test metrics of every TrOCR run |
+| `code/rerun_iam/` | Re-run of every English (IAM) experiment on the standard Aachen split: data conversion, resumable job queue (same commands and hyperparameters as `code/training/`) and conversion statistics; `tools/ingest_iam_aachen.py` wrote its results into `results/kraken/` |
 | `results/aggregated/` | `lines.json`: captured output of the per-line analysis on CatK12HW-actions (cell means, hierarchical-bootstrap intervals, writer bound, pages worse, strata and interactions). No per-line value |
 | `results/corpus/` | Corpus statistics of CatK12HW-actions v0.4 and the text coverage figures of the article (CC BY-NC 4.0, see `results/corpus/LICENSE`) |
 | `analysis/` | `holm_family.py` (Welch intervals and the single Holm family of 82 contrasts), `lines_analysis.py` (hierarchical bootstrap over test pages and seeds, writer bound, strata), `tables.py` (every table and figure), `check_manuscript.py` (comparison with the article) |
@@ -65,7 +66,9 @@ article calls *deletions* the reference characters the model does not emit, whic
 ## Hardware and running time
 
 The analysis runs on any CPU in about 10 seconds (Docker image of about 500 MB). The experiments ran on one server
-with two NVIDIA RTX A4000 GPUs (16 GB each); per-run training times were not logged. Retraining needs the data, the
+with two NVIDIA RTX A4000 GPUs (16 GB each). Per-run wall-clock times were logged only for the English runs
+(`wall_time_hours` in the result CSVs: 129 GPU-hours for the 62 IAM runs, from 0.5 h for a 500-line arm to 16--19 h for
+curriculum-LR). Retraining needs the data, the
 base models and the generator:
 
 - Kraken 7.0.2 with the FoNDUE-GD base models; the `kraken` target of the Dockerfile installs the environment.
@@ -84,7 +87,9 @@ base models and the generator:
   the same conditions and licence as the corpus (CC BY-NC 4.0), from the restricted Zenodo record of CatK12HW-actions.
   Copied into `results/perline/`, they let `make all` recompute the hierarchical bootstrap, and `make check-bootstrap`
   checks that the result equals `results/aggregated/lines.json`.
-- **RIMES-2011-line and IAM**: available from their distributors.
+- **RIMES-2011-line and IAM**: available from their distributors. For IAM the article uses the standard Aachen split as
+  released by Teklia on Hugging Face (`Teklia/IAM-line`, 6,482 / 976 / 2,915 lines); `code/rerun_iam/convert_teklia_iam.py`
+  converts that release to Kraken format and `checksums/IAM_AACHEN_SHA256.txt` lists the resulting training files.
 - **Checkpoints** (about 60 GB) and **synthetic pool images**: the pools can be regenerated with the pinned generator;
   their checksums are in `checksums/`.
 - **Fonts**: DaFont fonts have heterogeneous licences; the lists (`configs/pools/*/FONTS.txt`) and checksums
