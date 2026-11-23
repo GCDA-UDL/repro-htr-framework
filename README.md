@@ -5,10 +5,10 @@ Languages, Domains and Data Sizes* (J. Oliva, D. Grao, R. Tomàs, X. Carrera and
 table and every data figure of the article and of its supplementary material from the captured results, and checks
 them, cell by cell, against the LaTeX sources of the article.
 
-<!-- After the first release: [![DOI](https://zenodo.org/badge/DOI/<concept DOI>.svg)](https://doi.org/<concept DOI>) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24469802.svg)](https://doi.org/10.5281/zenodo.24469802)
 
-**Status:** 1.0.0 in preparation (first submission). The concept DOI is assigned by Zenodo when the first version is
-released.
+**Status:** 1.0.0 released on 2026-11-23 (first submission of the article). Concept DOI: 10.5281/zenodo.24469802
+(it resolves to the latest version).
 
 ## Quick start
 
@@ -75,7 +75,7 @@ base models and the generator:
 - TrOCR (`microsoft/trocr-base-handwritten` and `microsoft/trocr-base-stage1`); `trocr` target.
 - Synthetic pools: the generator is not copied here. It is pinned by version: *multilingual-synthetic-htr-dataset-generator*
   1.0.0 (code identical to commit `12f0918`, which adds the `--text-lines` mode used for the domain-text pools; repository
-  github.com/joaquimoliva/multilingual-synthetic-htr-dataset-generator, to move to the GCDA-UDL organization). Generation
+  github.com/GCDA-UDL/synthetic-htr-generator, copied from github.com/joaquimoliva/multilingual-synthetic-htr-dataset-generator). Generation
   is not deterministic, so `configs/pools/*/GENERATION.md` and `checksums/POOLS_SHA256.txt` describe the exact pools.
 
 ## What is not included, and why
@@ -101,7 +101,7 @@ Cite the concept DOI of this record (it resolves to the latest version):
 
 > Oliva, J., Grao, D., Tomàs, R., Carrera, X., & da Silva, V. L. (2026). *Synthetic Handwriting for HTR Fine-Tuning:
 > Controlled Evaluation Across Languages, Domains and Data Sizes (reproduction package)* (Version 1.0.0) [Computer
-> software]. Zenodo. https://doi.org/&lt;concept DOI&gt;
+> software]. Zenodo. https://doi.org/10.5281/zenodo.24469802
 
 `CITATION.cff` has the same information.
 

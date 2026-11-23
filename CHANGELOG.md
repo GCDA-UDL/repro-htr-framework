@@ -3,7 +3,7 @@
 All notable changes to this reproduction package are recorded here. Versions follow the git tags of the repository
 (without the leading "v").
 
-## [1.0.0] - unreleased (first submission of the article)
+## [1.0.0] - 2026-11-23 (first submission of the article)
 
 ### Added
 - Captured results of every Kraken and TrOCR run reported in the article (three settings: RIMES, IAM, CatK12HW-actions).

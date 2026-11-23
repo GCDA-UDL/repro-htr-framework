@@ -5,7 +5,7 @@ title: "Synthetic Handwriting for HTR Fine-Tuning: Controlled Evaluation Across 
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/GCDA-UDL/repro-htr-framework"
-# doi: concept DOI, to be added after the first Zenodo release
+doi: 10.5281/zenodo.24469802
 authors:
   - family-names: Oliva
     given-names: Joaquim
