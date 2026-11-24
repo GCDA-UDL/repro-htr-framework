@@ -3,6 +3,11 @@
 All notable changes to this reproduction package are recorded here. Versions follow the git tags of the repository
 (without the leading "v").
 
+## [Unreleased]
+
+### Changed
+- README: Zenodo concept DOI and final title of the generator (*Synthetic HTR Generator*, 10.5281/zenodo.24508743).
+
 ## [1.0.0] - 2026-11-23 (first submission of the article)
 
 ### Added
