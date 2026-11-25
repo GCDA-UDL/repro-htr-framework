@@ -82,7 +82,7 @@ base models and the generator:
 ## What is not included, and why
 
 - **CatK12HW-actions** images, transcriptions and per-line predictions: the corpus contains handwriting of minors and is
-  deposited separately, with restricted access (CC BY-NC 4.0).
+  deposited separately, with restricted access (CC BY-NC 4.0): Zenodo concept DOI 10.5281/zenodo.24159254.
 - **Per-line scores on the CatK12HW-actions test set** (`results/perline/`: characters, CER-cs, CER-ci and word errors
   of every line and run, pseudonymous page, strata; no image, transcription or prediction): available on request, with
   the same conditions and licence as the corpus (CC BY-NC 4.0), from the restricted Zenodo record of CatK12HW-actions.

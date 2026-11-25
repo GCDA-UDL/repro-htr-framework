@@ -6,7 +6,8 @@ All notable changes to this reproduction package are recorded here. Versions fol
 ## [Unreleased]
 
 ### Changed
-- README: Zenodo concept DOI and final title of the generator (*Synthetic HTR Generator*, 10.5281/zenodo.24508743).
+- README: Zenodo concept DOI and final title of the generator (*Synthetic HTR Generator*, 10.5281/zenodo.24508743) and
+  concept DOI of the CatK12HW-actions record (10.5281/zenodo.24159254, published 2026-11-25).
 
 ## [1.0.0] - 2026-11-23 (first submission of the article)
 
